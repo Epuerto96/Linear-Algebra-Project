@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{AutonomousIntersections}
+Evan Ackerman.
+\newblock The scary efficiency of autonomous intersections.
+\newblock
+  \url{http://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-scary-efficiency-of-autonomous-intersections}.
+\newblock [Online; accessed 14-April-2017].
+
+\bibitem{shortRoute}
+Manish Bhojasia.
+\newblock Program to find all pairs shortest path.
+\newblock
+  \url{http://www.sanfoundry.com/cpp-program-find-all-pairs-shortest-path/}.
+\newblock [Article; accessed 17-April-2017].
+
+\bibitem{tinyGPS}
+Mikal Hart.
+\newblock Gps parser for arduino.
+\newblock \url{http://arduiniana.org/libraries/tinygpsplus/}, September 28,
+  2014.
+\newblock [Article; accessed 07-April-2017].
+
+\bibitem{Eigenfaces}
+Jeremy Kun.
+\newblock Eigenfaces, for facial recognition.
+\newblock \url{https://jeremykun.com/2011/07/27/eigenfaces/}, July 27, 2011.
+\newblock [Online; accessed 12-April-2017].
+
+\bibitem{MatrixImages}
+Antoine Nectoux.
+\newblock Matrices and digital images.
+\newblock \url{http://blog.kleinproject.org/?p=588}.
+\newblock [Online; accessed 14-April-2017].
+
+\bibitem{hyperNavigation}
+JA~Pierce.
+\newblock An introduction to hyperbolic navigation, with particular reference
+  to loran, January 4, 1946.
+\newblock [Article; accessed 07-April-2017].
+
+\bibitem{statistics}
+Erin Schumaker.
+\newblock 10 statistics that capture the dangers of texting and driving.
+\newblock
+  \url{http://www.huffingtonpost.com/2015/06/08/dangers-of-texting-and-driving-statistics_n_7537710.html},
+  June 8, 2015.
+\newblock [Article; accessed 17-April-2017].
+
+\bibitem{eRoad}
+Danny Shapiro.
+\newblock Eyes on the road: How autonomous cars understand what they're seeing.
+\newblock
+  \url{https://blogs.nvidia.com/blog/2016/01/05/eyes-on-the-road-how-autonomous-cars-understand-what-theyre-seeing/},
+  January 5, 2016.
+\newblock [Online; accessed 14-April-2017].
+
+\bibitem{GoogleCar}
+Ryan Whitwam.
+\newblock How google’s self-driving cars detect and avoid obstacles.
+\newblock
+  \url{https://www.extremetech.com/extreme/189486-how-googles-self-driving-cars-detect-and-avoid-obstacles},
+  September 8, 2014.
+\newblock [Online; accessed 12-April-2017].
+
+\bibitem{deepLearning}
+Geoffrey~Hinton Yann~LeCun, Yoshua~Bengio.
+\newblock Deep learning.
+\newblock
+  \url{http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf},
+  28 May, 2015.
+\newblock [Article; accessed 18-April-2017].
+
+\end{thebibliography}
